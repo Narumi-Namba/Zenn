@@ -1,0 +1,39 @@
+# macOS / shell
+/.DS_Store
+/.lesshst
+
+# IDE / Editor
+/.vscode/
+/.idea/
+/.vs/
+
+# Node / JS
+node_modules/
+dist/
+build/
+out/
+coverage/
+
+# Java / JVM
+/.m2/
+/.gradle/
+target/
+*.class
+
+# Logs / locks / temp
+*.log
+*.pid
+*.seed
+*.lock
+*.tmp
+*.swp
+*~
+
+# VS Code extension caches accidentally added
+/.kiro/
+
+# Tool caches / user data mistakenly copied into repo
+/.local/
+/geekationWorkspace/
+
+# End of file
