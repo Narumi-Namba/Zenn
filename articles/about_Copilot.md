@@ -1,5 +1,5 @@
 ---
-title: "Github CopilotでWebサイト作ってみた感想"
+title: "Github Copilotで愛犬の紹介サイト作ってみた感想"
 emoji: "🐶"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Github Copilot]
