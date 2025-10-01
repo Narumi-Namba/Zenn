@@ -22,7 +22,7 @@ published: false
 そんなとき、入社した会社で GitHub Copilot の存在を知ります。
 「これがあれば作れるのでは？🤔」と思い立ち、今回実際に挑戦してみました。
 
-## Github Copilot を使って愛犬ファンサイトを作成
+## Github Copilot(無料版) を使って愛犬ファンサイトを作成
 
 ---
 
